@@ -443,7 +443,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 3
-  target: {fileID: 0}
+  player: {fileID: 0}
   destination: {x: 0, y: 0, z: 0}
   agent: {fileID: 6806382007377062619}
   damage: 0

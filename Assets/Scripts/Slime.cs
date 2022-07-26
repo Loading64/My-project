@@ -29,9 +29,6 @@ public class Slime : MonoBehaviour
             destination = player.position;
             agent.destination = destination;
         }
-        if (Vector3.Distance(destination, player.position) > 100.0f){
-            agent.warp(destination);
-        }
 
     }
     public void damagetaken(int damage)
