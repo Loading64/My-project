@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a1196262296dc3c48997937c66b27395
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Prefab1: {fileID: 8405116257711932283, guid: 5b9bceac4a911894e970df053d702595, type: 3}
+  - Prefab2: {fileID: 8405116257711932283, guid: dbef280159bf17748957c01d51687712, type: 3}
+  - Prefab3: {fileID: 7910751054913812703, guid: a3ff7adbbf35ba84c82394099f333955, type: 3}
+  - Prefab4: {fileID: 7910751054913812703, guid: 0ae3b1ae00f80f7489c1b31949337e27, type: 3}
+  - Prefab5: {fileID: 7910751054913812703, guid: 09f61dfc05ea86245bb134acd3bc5750, type: 3}
+  - Prefab6: {fileID: 7101302611850102344, guid: 6bbd92d7eda886c4eb4f010adeed80a9, type: 3}
+  - Prefab7: {fileID: 8405116257711932283, guid: 5a81df2a28844bb4fb35348b3b4c54fc, type: 3}
+  - Prefab8: {fileID: 8405116257711932283, guid: d6073859284cd5c48b6565048bdffb35, type: 3}
+  - Prefab9: {fileID: 8405116257711932283, guid: 07193ee99efca6a4a8186e2bb16a75f0, type: 3}
+  - Prefab10: {fileID: 8405116257711932283, guid: 8180d3ebb57396743bdd8d08f6be40f8, type: 3}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

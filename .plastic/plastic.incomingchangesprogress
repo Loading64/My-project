@@ -1,0 +1,44 @@
+[
+  {
+    "MountId": "56e62dd7-241f-41e9-8c6b-dd4ca4513e62",
+    "AncestorCsetIds": [
+      12
+    ],
+    "SourceCsetId": 13,
+    "DestinationCsetId": 12,
+    "FileConflicts": [
+      {
+        "Path": "/ProjectSettings/ProjectVersion.txt",
+        "ItemId": 144,
+        "ParentItemId": 128,
+        "BaseRevId": 1366,
+        "SourceRevId": 1635,
+        "DestinationRevId": 1366
+      },
+      {
+        "Path": "/Packages/manifest.json",
+        "ItemId": 130,
+        "ParentItemId": 126,
+        "BaseRevId": 1414,
+        "SourceRevId": 1632,
+        "DestinationRevId": 1414
+      },
+      {
+        "Path": "/Packages/packages-lock.json",
+        "ItemId": 131,
+        "ParentItemId": 126,
+        "BaseRevId": 1415,
+        "SourceRevId": 1633,
+        "DestinationRevId": 1415
+      },
+      {
+        "Path": "/Assets/Scenes/Procedural Generation Test.unity",
+        "ItemId": 580,
+        "ParentItemId": 524,
+        "BaseRevId": 1413,
+        "SourceRevId": 1629,
+        "DestinationRevId": 1413
+      }
+    ]
+  }
+]
