@@ -9,6 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 679778155393316260}
+  - component: {fileID: 4278602964337400774}
   m_Layer: 0
   m_Name: BookShelfLong
   m_TagString: Untagged
@@ -32,6 +33,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &4278602964337400774
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1266067273328741754}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1.7961265, y: 5, z: 6.655512}
+  m_Center: {x: -0.025080025, y: 3, z: -0.09702301}
 --- !u!1001 &7769454794448010038
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -83,6 +97,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 20ca99f39e6ebe648aac0d24c870fb49, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: eaa71256b094f66429baf270c99c839a, type: 2}
+    - target: {fileID: -7511558181221131132, guid: 20ca99f39e6ebe648aac0d24c870fb49, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: f588285cd76cef040945927446cceae3, type: 2}
     - target: {fileID: 919132149155446097, guid: 20ca99f39e6ebe648aac0d24c870fb49, type: 3}
       propertyPath: m_Name
       value: BookShelfLong
