@@ -9,7 +9,7 @@ public class LockedItemInteractable : MonoBehaviour, IInteractable
 
     public bool Interact(Interactor interactor)
     {
-        Debug.Log("Interacting with item unlocked state");
+        Debug.Log(_prompt);
         return true;
     }
 }

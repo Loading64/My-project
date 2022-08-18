@@ -9,7 +9,7 @@ public class FluffInteractable : MonoBehaviour, IInteractable
 
     public bool Interact(Interactor interactor)
     {
-        Debug.Log("FluffText");
+        Debug.Log(_prompt);
         return true;
     }
 }

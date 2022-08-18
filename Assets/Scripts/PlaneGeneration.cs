@@ -12,9 +12,9 @@ public class PlaneGeneration : MonoBehaviour
 
     public GameObject player;
 
-    private int radius = 7;
+    public int radius = 7;
 
-    private int planeOffset = 10;
+    public int planeOffset = 10;
     
     private Vector3 startPos = Vector3.zero;
     
