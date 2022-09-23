@@ -130,6 +130,8 @@ public class FirstPersonController : MonoBehaviour
     private float timer = 0;
 
     #endregion
+    #region Inventory Passthrough 1
+    #endregion
 
     private void Awake()
     {
@@ -440,6 +442,10 @@ public class FirstPersonController : MonoBehaviour
             }
         }
 
+        #endregion
+        #region Inventory
+        var inventory = Inventory.instance;
+        Debug.Log("Items in Inventory:" + inventory.items);
         #endregion
     }
 
