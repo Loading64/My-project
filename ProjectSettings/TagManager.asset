@@ -35,7 +35,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - DontDestroy
   - TopOfParkingLot
   - IgnoreLighting
   m_SortingLayers:
