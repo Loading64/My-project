@@ -25,7 +25,7 @@ public class UnityDontDestroyOnLoad : MonoBehaviour
 
         GUIStyle fontSize = new GUIStyle(GUI.skin.GetStyle("button"));
         fontSize.fontSize = 32;
-        GUI.DrawTexture(new Rect(xCenter - width, yCenter - height, width, height), aTexture, ScaleMode.ScaleToFit, true, 10.0f);
+        GUI.DrawTexture(new Rect(xCenter + width/2, yCenter + height/2, width, height), aTexture, ScaleMode.ScaleToFit, true, 10.0f);
 
     }
 }
