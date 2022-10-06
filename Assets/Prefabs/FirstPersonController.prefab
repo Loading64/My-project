@@ -187,6 +187,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2dd8bfccc7540b2448e406b82ed2ba5e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pauseMenu: {fileID: 0}
   isPaused: 0
 --- !u!1 &4459864850190357393
 GameObject:
@@ -738,6 +739,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: LowPolyCharacter
       objectReference: {fileID: 0}
+    - target: {fileID: 9175389600983514338, guid: 250d9ff8b91c7d54da9b1232f968135d, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 250d9ff8b91c7d54da9b1232f968135d, type: 3}
 --- !u!4 &9071391502523951009 stripped
